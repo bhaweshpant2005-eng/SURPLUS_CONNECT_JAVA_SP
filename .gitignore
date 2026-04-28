@@ -1,0 +1,9 @@
+target/
+*.class
+*.jar
+*.war
+uploads/
+.env
+*.log
+.DS_Store
+.vscode/
